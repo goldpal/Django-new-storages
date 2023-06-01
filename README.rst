@@ -6,9 +6,6 @@
     :target: https://pypi.org/project/django-storages/
     :alt: PyPI Version
 
-.. image:: https://github.com/goldpal/Django-new-storages/actions/workflows/ci.yml/badge.svg
-    :target: https://github.com/goldpal/Django-new-storages/actions/workflows/ci.yml
-    :alt: Build Status
 
 Installation
 ============
